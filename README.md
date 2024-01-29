@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkan Özmen</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=B0F71A&random=false&width=435&lines=Merhaba%2C+Ben+Berkan+%C3%96zmen;Front-End+Geli%C5%9Ftiricisi)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [deu-debis](https://deuportal.netlify.app)
 
