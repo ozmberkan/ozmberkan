@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Dokuz Eylul University Student Portal**
+ 🔭 I’m currently working on **my portfolio page**
  
  🌱 I’m currently learning **TailwindCSS, React, AngularJS**
 
