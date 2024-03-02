@@ -29,7 +29,7 @@
 <h3 align="center">🌐 Social Media 🌐</h3><br>
 
 <div align="center">
-  <a href="https://berkanozmen.netlify.app" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>&emsp;
+  <a href="https://berkanozmen.vercel.app" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>&emsp;
   <a href="mailto:ozmberkan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&emsp;
   <a href="https://twitter.com/berkannozm" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;
   <a href="https://linkedin.com/in/berkanozm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&emsp;
