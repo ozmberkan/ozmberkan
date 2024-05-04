@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **my portfolio page**
  
- 🌱 I’m currently learning **AngularJS**
+ 🌱 I’m currently learning **Angular**
 
 💬 Ask me about **html, css , tailwindcss , react**
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,react,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwindcss,react,typescript,angular" />
   </a>
 </p>
 
