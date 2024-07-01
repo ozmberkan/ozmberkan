@@ -10,9 +10,9 @@
  
  🔭 I’m currently working on **my portfolio page**
  
- 🌱 I’m currently learning **Angular**
+ 🌱 I’m currently learning **React**
 
-💬 Ask me about **html, css , tailwindcss , react**
+💬 Ask me about **html, css , tailwindcss**
 
  </div>
  
