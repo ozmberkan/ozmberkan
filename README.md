@@ -1,7 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=0D0B1D&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Muhammed Berkan+%C3%96zmen+%7C+23;Front+End+Developer;React+Developer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=080808&width=435&lines=Muhammed+Berkan+%C3%96zmen;Jr.+React+Developer;Jr.+Front+End+Developer)](https://git.io/typing-svg)<hr>
 
-<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/berkannozm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkannozm" height="30" width="40" /></a>
