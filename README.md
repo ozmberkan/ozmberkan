@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=0D0B1D&background=FFFFFF00&vCenter=true&random=false&width=435&lines=M.Berkan+%C3%96zmen+%7C+23;Front+End+Developer;React+Developer)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=0D0B1D&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Muhammed Berkan+%C3%96zmen+%7C+23;Front+End+Developer;React+Developer)]()
 
 <hr>
 <h3 align="left">Connect with me:</h3>
