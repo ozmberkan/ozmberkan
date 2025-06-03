@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=080808&width=435&lines=Muhammed+Berkan+%C3%96zmen;Jr.+React+Developer;Jr.+Front+End+Developer)](https://git.io/typing-svg)<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffffff&width=435&lines=Muhammed+Berkan+%C3%96zmen;Jr.+React+Developer;Jr.+Front+End+Developer)](https://git.io/typing-svg)<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
