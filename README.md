@@ -11,7 +11,7 @@
 <h3 align="left">Front End Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,nextjs,redux," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,nextjs,redux,zustand,reactquery" />
   </a>
 </p>
 <h3 align="left">Back End Tools:</h3>
